@@ -1,0 +1,83 @@
+<!DOCTYPE>: Selects the version of the html of a website.
+
+attributes: html
+
+example: <!DOCTYPE html> (this selects the most recent version of the html.)
+
+<!--: Leave notes for editors that are invisible to the public. The text typically turns green if it works. 
+
+attributes: none
+
+example: <!--shhhh-->
+a: This makes a hyperlink to another website. The text which is wrapped in the link will be able to be clicked and send the viewer to the website.
+
+attributes: href
+
+example: <a href="https://vibing.com/">a website</a> that is pretty cool.
+
+body: This contains the content of your website.
+
+attributes: none
+
+example:
+<body> 
+cool! 
+</body>
+
+h1: Header tag, makes the text large and puts it on a separate line. Good for making titles or headings.
+
+attributes: none
+
+example: <h1>Mr Pelletier</h1>
+
+h2-h6: Header tag, like h1 but the text progressively gets smaller as the number increases
+
+head: For writing things down for your website to think about when looking at your webpage.
+
+attributes: none
+
+example: <head> apples </head>
+
+html: Marks the beginning and end of your html code.
+
+attributes: none
+
+example: <html> wow! </html>
+
+img: This command allows one to import a photo on a website. The photo must be downloaded and be in the right folder for it to load properly on a website. JPEG image. (image)
+
+attributes: scr
+
+example: <img src="WOW.jpg">
+
+li: Adds item(s) to your list. (list)
+
+example: <li>rats</li>
+<li>stuff</li>
+
+ol: A command used to list things but in numerical form. (an organized list.)(e.g: 1. yes 2. wow 3. huh)
+
+example: 
+<ol>
+<li>wow</li>
+<li>nice</li>
+</ol>
+
+title: the name of your website displayed on the top.
+
+attributes: none
+
+example: <title> Tag Dictionary </title> 
+
+p: Used to start and/or end a paragraph. 
+
+example: <p> She baked me a pie today! How sweet.</p>
+
+ul: A command used to list things but in bullet-point form. (an unorganized list.)
+
+example:
+<ul>
+<li>pink</li>
+<li>yellow</li>
+</ul>
+
